@@ -1,0 +1,26 @@
+
+.planet-card {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(54, 54, 54);
+  padding: 4rem;
+  border-radius: 1rem;
+}
+
+.planet-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 3rem;
+  width: 40%;
+  border-radius: 1rem;
+}
+
+.card-content{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.list-group-item .term {
+  margin-right: .5rem;
+}
